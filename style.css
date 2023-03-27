@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(234, 234, 156);
+}
+
+h1{
+    text-align: center;
+    color: rgb(220, 194, 25);
+    padding-top: 100px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(220, 194, 25);
+}
+
+.Name {
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    align-content: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.label {
+    align-content: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(165, 153, 14);
+}
+
+.button {
+    align-content: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    align-items: center;
+    background-color: antiquewhite;
+}
